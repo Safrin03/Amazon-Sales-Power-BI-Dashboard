@@ -56,3 +56,28 @@ Power BI
 - Products with the highest profit margins were primarily in the "SmartTelevision" category, indicating the potential for strategic pricing adjustments. Identifying and promoting these high-margin products could further boost overall profitability.
 - Within each category, products with exceptional customer ratings were often niche or specialized items. Customers' positive experiences with these products indicated a demand for high-quality, unique offerings within various categories.
 - Filtering product categories by customer ratings (average, good, low) revealed interesting patterns. Products with "good" ratings consistently outperformed others, indicating a strong preference among customers for products with positive reviews. High-selling products within each rating category were predominantly from the electronics and electronic accessories sectors.
+
+These summary findings provide a comprehensive overview of the insights derived from the Amazon Sales Insights Dashboard. Further analysis and exploration can be conducted to refine strategies, enhance product offerings, and optimize pricing and promotional activities.
+
+## 4) Dashboard
+### Overview:
+
+The **Amazon Sales Insights Dashboard** is a dynamic and interactive visualization tool created using Power BI. It provides comprehensive insights into the sales data collected from Amazon, offering valuable information for business analysis and strategic decision-making.
+
+### Key Features:
+
+- **Top-Selling Products:** Quickly identify the products generating the highest revenue.
+- **Category Analysis:** Explore sales trends across different categories and sub-categories.
+- **Pricing Impact:** Understand how product prices influence sales volume and revenue.
+- **Promotion Effectiveness:** Evaluate the impact of discounts and promotions on specific products and categories.
+- **Customer Ratings Insights:** Analyze customer ratings distribution across various price ranges.
+- **Profit Margins:** Identify top products based on profit margins to optimize pricing strategies.
+- **Product Count vs. Sales:** Explore the correlation between the number of products and sales within each category.
+- **Customer Ratings Categories:** Filter products by customer ratings (average, good, low) to assess performance within each category.
+
+### How to Use:
+
+1. **Click the Link:** Access the [Amazon Sales Dashboard](link/to/Amazon%20Sales%20Dashboard.pbix) to explore the interactive visualizations.
+2. **Interact with Slicers :** Use slicers to filter data based on product ratings and explore specific categories. 
+3. **Hover Over Matrix:** Hover over matrix to view detailed information about product info, prices, and customer ratings.
+
