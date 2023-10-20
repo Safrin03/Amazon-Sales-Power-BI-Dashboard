@@ -77,7 +77,7 @@ The **Amazon Sales Insights Dashboard** is a dynamic and interactive visualizati
 
 ### How to Use:
 
-1. **Click the Link:** Access the [Amazon Sales Dashboard](link/to/Amazon%20Sales%20Dashboard.pbix) to explore the interactive visualizations.
+1. **Click the Link:** Access the [Amazon Sales Dashboard](Amazon%20Sales%20Dashboard.pbix) to explore the interactive visualizations.
 2. **Interact with Slicers :** Use slicers to filter data based on product ratings and explore specific categories. 
 3. **Hover Over Matrix:** Hover over matrix to view detailed information about product info, prices, and customer ratings.
 
